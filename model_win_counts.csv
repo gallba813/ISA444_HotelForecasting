@@ -1,0 +1,9 @@
+model,bias,mae,mape,rmse
+AutoARIMA,1,0,1,1
+AutoETS,3,1,1,1
+Chronos,4,8,8,7
+LightGBM,3,2,3,3
+NBEATS,2,3,3,3
+NHITS,1,0,0,0
+Naive,2,4,2,3
+SeasonalNaive,3,1,1,1
